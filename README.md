@@ -1,6 +1,8 @@
 ## Importante!!!!
 La base de datos esta hecha en firebase de google.
+
 •Chequen el archivo de "environment.ts" hay esta la conexion al la base de datos.
+
 •El como se usa la base de datos esta en los distintos archivos que se llaman "emplooye" o "employees".
 
 El codigo esta basado en un proyecto que encon tre en youtube aqui les dejo el link:
