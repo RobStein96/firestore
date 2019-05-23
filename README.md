@@ -1,3 +1,11 @@
+##Importante
+La base de datos esta hecha en firebase de google.
+•Chequen el archivo de "environment.ts" hay esta la conexion al la base de datos.
+•El como se usa la base de datos esta en los distintos archivos que se llaman "emplooye" o "employees".
+
+El codigo esta basado en un proyecto que encon tre en youtube aqui les dejo el link:
+https://www.youtube.com/watch?v=5I6k77uqtLY
+
 # Firestore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
