@@ -1,0 +1,16 @@
+<table class="table table-hover">
+  <thead>
+    <th>Nombre</th>
+    <th>Correo</th>
+    <th>Matricula</th>
+    <th></th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let alum of list">
+      <td (click)="onEdit(alum)">{{alum.Nombre}} - {{alum.Nombre}}</td>
+      <td (click)="onEdit(alum)">{{alum.Correo}}</td>
+      <td (click)="onEdit(alum)">{{alum.Matricula}}</td>
+      <td><a class="btn text-danger" (click)="onDelete(alum.id)"><i class="fa fa-trash"></i></a></td>
+    </tr>
+  </tbody>
+</table>
